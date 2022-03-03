@@ -30,3 +30,9 @@ I will try again with my own solution and re run the program.
 <strong>OK!!! soo function declaration and fucntion expression is selective in triggering actions in scripts.... did a lot of editing.. for ref: ...... "function doThis(){}" is a declaration....."let func = fucntion(){}"is a function expression</strong>
 
 .............................
+
+
+
+## March 4, 2022 
+
+OOOOOKKKK soo I kinda got lazy, did bit of codecademy revision but no real coding happening during that time. Work kinda got me down as now I am not allowed to touch the database :(, apparently previous person in my role implemented a query in production which had negative implication in inventory.
