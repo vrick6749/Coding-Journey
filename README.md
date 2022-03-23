@@ -36,3 +36,8 @@ I will try again with my own solution and re run the program.
 ## March 4, 2022 
 
 OOOOOKKKK soo I kinda got lazy, did bit of codecademy revision but no real coding happening during that time. Work kinda got me down as now I am not allowed to touch the database :(, apparently previous person in my role implemented a query in production which had negative implication in inventory.
+
+
+## March 23, 2022
+
+I will try to code again been practicing my typing without looking so far so good I am able to type without looking although only max of 30 wpm from 18 anyway.
